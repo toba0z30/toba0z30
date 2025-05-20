@@ -11,6 +11,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/toba0z30/threat-hunting-scenario-tor)**
+- **[Creation of a Mini SOC and Honeynet)](https://github.com/toba0z30/min-soc-Honeynet)**
 
 <hr/>
 
